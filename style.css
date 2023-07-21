@@ -59,8 +59,6 @@
   margin-top: 22px;
 
 }
-.card-text{
-}
 
 .Bannerbgimg {
   height: 100vh;
@@ -147,7 +145,6 @@
   background-image: url("https://images.freecreatives.com/wp-content/uploads/2016/04/website-Background-Wallpaper.jpg");
   height: 80vh;
   background-size: cover;
-  width:700px;
 }
 
 .detailed-view-heading {
@@ -158,17 +155,8 @@
   padding: 24px;
 }
 
-.detailed-view-card-container {
-  background-color: white;
-  border-bottom-right-radius: 8px;
-  border-bottom-left-radius: 8px;
-  margin: 24px;
-  height:50vh;
-  width:500px;
-}
 .img1{
-  height:50vh;
-  width:500px;
+  height:45vh;
   background-size: cover;
 }
 
@@ -177,20 +165,6 @@
   font-family: "Roboto";
   font-size: 13px;
 }
-
-.detailed-view-card-text-container {
-  padding: 16px;
-}
-
-
-
-
-
-
-
-
-
-
 .hr {
   border-style: dotted;
   border-width: 6px;
